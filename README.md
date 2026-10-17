@@ -8,3 +8,6 @@
 先调用 fashion-portrait-prompts 技能。
 我打算用上传的图片生成一幅内衣广告插画，所以请给出提示词。
 ```
+
+效果展示 & 使用示例：
+https://x.com/KandaoMaster/status/2111407398480949754
